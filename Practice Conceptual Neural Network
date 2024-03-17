@@ -1,0 +1,13 @@
+Understand Conceptual Newural Network
+Check out the playground for [Tensorflow](https://playground.tensorflow.org/#activation=linear&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.01&regularizationRate=0&noise=0&networkShape=1&seed=0.38153&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+<img>"C:\Users\Valde\OneDrive\#CodingDojo\05-IntermediateML\Week19\Practice\Data\Screen_Shot_2021-01-29_at_11.37.12_AM.png"
+
+
+Press the "play" button to train the network. Then, answer the following questions:
+
+Run the network. What do you notice?
+Now, increase the number of neurons in the hidden layer and try changing the activation function to something other than "Linear." Can you model the data now? How many neurons and what activation function allows you to effectively model the data?
+Feel free to add more neurons or layers or change anything you would like - can you model the data so that the testing loss is 0.01 or less? What is the smallest number of neurons and layers you can use that gives a test loss of 0.01 or less?
+Play around with the learning rate. What do you notice? Based on this, what do you think the learning rate is?
+Submit a file with your answers.
