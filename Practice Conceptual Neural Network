@@ -1,13 +1,10 @@
-Understand Conceptual Newural Network
-Check out the playground for [Tensorflow](https://playground.tensorflow.org/#activation=linear&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.01&regularizationRate=0&noise=0&networkShape=1&seed=0.38153&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+#<u> Press the "play" button to train the network. Then, answer the following questions:
 
-<img src="Screen_Shot_2021-01-29_at_11.37.12_AM.png">
+1. Run the network. What do you notice?
+   Not much the really the epoch's are increasing and the out lines of both test and taining are the same perpendicular to each other.
 
+2. Now, increase the number of neurons in the hidden layer and try changing the activation function to something other than "Linear." Can you model the data now? How many neurons and what activation function allows you to effectively model the data?
 
-Press the "play" button to train the network. Then, answer the following questions:
+3. Feel free to add more neurons or layers or change anything you would like - can you model the data so that the testing loss is 0.01 or less? What is the smallest number of neurons and layers you can use that gives a test loss of 0.01 or less?
 
-Run the network. What do you notice?
-Now, increase the number of neurons in the hidden layer and try changing the activation function to something other than "Linear." Can you model the data now? How many neurons and what activation function allows you to effectively model the data?
-Feel free to add more neurons or layers or change anything you would like - can you model the data so that the testing loss is 0.01 or less? What is the smallest number of neurons and layers you can use that gives a test loss of 0.01 or less?
-Play around with the learning rate. What do you notice? Based on this, what do you think the learning rate is?
-Submit a file with your answers.
+4. Play around with the learning rate. What do you notice? Based on this, what do you think the learning rate is?
