@@ -1,7 +1,7 @@
 Understand Conceptual Newural Network
 Check out the playground for [Tensorflow](https://playground.tensorflow.org/#activation=linear&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.01&regularizationRate=0&noise=0&networkShape=1&seed=0.38153&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
-<img src="C:\Users\Valde\OneDrive\#CodingDojo\05-IntermediateML\Week19\Practice\Data\Screen_Shot_2021-01-29_at_11.37.12_AM.png">
+<img src="Screen_Shot_2021-01-29_at_11.37.12_AM.png">
 
 
 Press the "play" button to train the network. Then, answer the following questions:
